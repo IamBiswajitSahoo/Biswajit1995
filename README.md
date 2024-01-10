@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Biswajit1995
-- 👀 I’m interested in XR and Game Dev
-- 🌱 I’m currently learning Game Dev and working as a proffessional XR Dev
-- 💞️ I’m looking to collaborate on game related projects
+- 👀 I’m a seasoned professional in XR and Game Dev
+- 🌱 I’m currently working full-time as a Senior Unity3D Developer on an exciting metaverse platform.
+- 💞️ I’m open to collaborating on game-related projects.
 - 📫 Reach me at: bsahoo1995@gmail.com
 
 <!---
